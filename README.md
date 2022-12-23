@@ -1,0 +1,2 @@
+# amatak
+Amatak Documentations
